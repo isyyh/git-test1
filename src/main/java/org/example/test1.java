@@ -13,6 +13,7 @@ public class test1 {
 		System.out.println("33");
 		System.out.println("43");
 		System.out.println("hotfix");
+		System.out.println("push");
 	}
 
 }
